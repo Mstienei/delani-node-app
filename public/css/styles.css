@@ -1,0 +1,170 @@
+body{
+  font-family: "Roboto";
+  background-color: white;
+}
+.card{
+  border: 0;
+}
+.card-img-top{
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.logo{
+  position: absolute;
+  top: 180px;
+  left: 500px;
+}
+.mouse-click{
+  position: absolute;
+  top: 560px;
+  left: 540px;
+}
+.card-head{
+  color: white;
+  text-transform: uppercase;
+}
+.card-head-text1 {
+  position: absolute;
+  top: 13.5%;
+  left: 43%;
+  font-size: 30px;
+  /*transform: translate(-50%, -50%);*/
+}
+.card-head-text2 {
+  position: absolute;
+  top: 17%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 30px;
+}
+.card-head-text3 {
+  position: absolute;
+  top: 18%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    font-size: 10px;
+}
+.card-body1{
+  text-align: center;
+  font-size: 10px;
+  padding-top: 15px;
+  font-weight: bold;
+}
+.card-img-body{
+  width: 100%;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.card-title2 {
+  position: absolute;
+  top: 890px;
+  left: 46%;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+}
+.card-text2 {
+  position: absolute;
+  top: 900px;
+  left: 25%;
+  text-align: center;
+  font-size: 10px;
+  color: white;
+  padding-top: 10px;
+}
+.card-title3{
+  padding-top: 20px;
+  text-align: center;
+  font-size: 20px;
+}
+.design{
+  padding-left: 15%;
+}
+.dev{
+  padding-left: 25%;
+}
+.product{
+  padding-left: 25%;
+}
+.design figcaption{
+  padding-left: 8px;
+}
+.dev figcaption{
+  margin-left: -15px;
+}
+.product figcaption{
+  margin-left: -40px;
+}
+.card-body4 img{
+  width: 180px;
+  height: 150px;
+  display: block;
+}
+.card-body4{
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer-image{
+  padding-top: 20px;
+  width: 100%;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.footer-title{
+  position: absolute;
+  top: 76%;
+  left: 46%;
+  text-align: center;
+  font-size: 20px;
+}
+.card-footer1{
+  color: white;
+}
+.card-footer2 {
+    position: absolute;
+    top: 78%;
+    font-size: 30px;
+    width: 100%;
+    padding-left: 180px;
+    color: white;
+    border-color:white;
+    font-size: 15px;
+  }
+  .btn-primary {
+    background-color: #d6b865;
+    border-color: white;
+    border-radius: 0;
+    margin-bottom:50px;
+}
+.footer3{
+  padding-top: 20px;
+  margin-left: 400px;
+}
+.footer4{
+  text-align: center;
+  margin-left: 160px;
+  padding-top: 15px;
+}
+.design-img{
+  position: relative;
+}
+.dev-img{
+  position: relative;
+}
+.product-img{
+  position: relative;
+}
+.w-25{
+  position: absolute;
+  top: 1135px;
+  color: black;
+  margin-left: -80px;
+  font-size: 10px;
+  text-align: center;
+  display: none;
+  font-weight: bold;
+}
